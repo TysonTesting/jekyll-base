@@ -5,14 +5,11 @@ date:   2015-02-12 13:46:40
 categories: jekyll update
 ---
 My top 5 favorite things from the list of duties that are expected of support staff:
----
-layout: page
----
-- Respond to 60+ support requests via email or chat every day
-- Debug a customer's build using a programming language and framework that you've never seen before
-- Dig through server logs to troubleshoot a customer's website behavior
-- Engage multiple users at once via chat to answer their questions and troubleshoot problems
-- Work with people to figure out if Netlify's service can solve a particular workflow or integration challenge they have
+<ul>- Respond to 60+ support requests via email or chat every day </ul>
+<ul>- Debug a customer's build using a programming language and framework that you've never seen before </ul>
+<ul>- Dig through server logs to troubleshoot a customer's website behavior </ul>
+<ul>- Engage multiple users at once via chat to answer their questions and troubleshoot problems </ul>
+<ul>- Work with people to figure out if Netlify's service can solve a particular workflow or integration challenge they have </ul>
 
 My top 5 least favorite things from the list of duties that are expected of support staff:
 - Create video tutorials to help teach users a specific feature or use case
