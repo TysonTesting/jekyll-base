@@ -1,0 +1,12 @@
+---
+layout: post
+title: DNS Difficulties
+date: 2017-10-19
+categories: jekyll updates
+---
+<b>Explain, in a couple of paragraphs, what you think 2 major challenges around DNS configuration are for less-technical internet end-users</b>
+
+<p></p>
+For me the biggest challenge when troubleshooting DNS issues with less-technical users is terminology.  A lot of times they don't understand what a CNAME is or the difference between the Name Servers and DNS records. Sometimes they may not even know how to access important information needed for DNS setup such as an IP address. Additionally, many times they don't know what to ask or how to explain what they want so you have to kind of walk them through it and ask a lot of leading questions to help identify the problem. 
+<p></p>
+I also find certain types of troubleshooting to be more challenging with less technical users. Specifically, setting up custom subdomains and masks with redirects. Generally speaking, the more complicated a process is, the more difficult it is to explain. 
