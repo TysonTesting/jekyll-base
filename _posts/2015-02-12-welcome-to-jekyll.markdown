@@ -12,11 +12,11 @@ My top 5 favorite things from the list of duties that are expected of support st
 <ul>- Work with people to figure out if Netlify's service can solve a particular workflow or integration challenge they have </ul>
 
 My top 5 least favorite things from the list of duties that are expected of support staff:
-- Create video tutorials to help teach users a specific feature or use case
-- Write and maintain documentation for our software and blog posts for our website.
-- Help manage communications during a service outage
-- Deliver a talk to many people you don't know at a conference or meetup
-- Find and recruit teammates for the support team
+<ul>- Create video tutorials to help teach users a specific feature or use case </ul>
+<ul>- Write and maintain documentation for our software and blog posts for our website.</ul>
+<ul>- Help manage communications during a service outage</ul>
+<ul>- Deliver a talk to many people you don't know at a conference or meetup</ul>
+<ul>- Find and recruit teammates for the support team </ul>
 
 My favorite thing about providing technical support is helping people. I love helping people and I love helping people find solutions to problems especially. It also makes me feel smarter than I really am which I appreciate. 
 
