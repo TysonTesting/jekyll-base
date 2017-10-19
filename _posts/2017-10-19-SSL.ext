@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "SSL"
+date:   2017-10-19 13:46:40
+categories: jekyll update
+---
+SSL encrypts information that goes out over the internet.  It is a secure way to transfer important information such as payment information, personal or identifying information, medical information, banking information, and any kind of data that one would like to be kept confidential and protected from hackers. When SSL in enabled on a site, it requires the user to have a key in order to be able to access the site. This helps ensure a more secure transfer of data. 
