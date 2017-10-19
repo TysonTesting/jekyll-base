@@ -5,6 +5,9 @@ date:   2015-02-12 13:46:40
 categories: jekyll update
 ---
 My top 5 favorite things from the list of duties that are expected of support staff:
+---
+layout: page
+---
 - Respond to 60+ support requests via email or chat every day
 - Debug a customer's build using a programming language and framework that you've never seen before
 - Dig through server logs to troubleshoot a customer's website behavior
