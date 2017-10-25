@@ -3,9 +3,7 @@ layout: page
 title: About
 permalink: /about/
 ---
-
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
-
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
-
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+<h1> <center> About Tyson Bishop </center> </h1>
+<br>
+<br>
+Tyson Bishop is a United States Navy Veteran with a lifetime of experience in technology. At a young age, Tyson began programming in Basic on an old IBM in his Elementary School classroom. He taught himself by checking out books from the school library. He is also deeply committed to helping others, and has organized in his community on a volunteer basis for more than a decade. In addition to helping others and playing with computers, Tyson loves the outdoors, big dogs, great food, spending time with family, and traveling. 
