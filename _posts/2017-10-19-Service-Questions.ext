@@ -12,7 +12,7 @@ To be honest I was really happy with Netlify's service so far. At first I had tr
 I just picked a theme and ran with it. I chose a theme that was created using Ruby mostly just to see how the files were created and how the code interacted. 
 <p></p>
 <b>Briefly explain a challenge you encountered when setting up the site and how you solved it. </b>
-Initially I was having trouble locating the files as previously mentioned. I was unsure what to modify if I wanted to change the header for example, since I wasn't seeing the HTML in the file that corresponded to the text. It was all done via includes. I browsed through the repository, checked out the post and index files, and I was good to go after that. 
+Initially I was having trouble locating the files as previously mentioned. I also had trouble doing the redirects for the bonus question. I saw the instructions for it but I think I inputted the redirect incorrectly? I'm sure it's something easy I missed.  
 <p></p>
 <b>Do you have any suggestions for improving this test or the job post?</b>
 The only feedback I have is probably more related to improving the overall product rather than the actual posting. The only thing I would suggest is to be more specific about where things are. That said, anyone tech savvy can figure it out pretty quickly. 
