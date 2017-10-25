@@ -6,4 +6,5 @@ categories: jekyll update
 ---
 <b>Why do you think SSL/HTTPS is important?</b>
 <br>
+<br>
 SSL encrypts information that goes out over the internet.  It is a secure way to transfer important information such as payment information, personal or identifying information, medical information, banking information, and any kind of data that one would like to be kept confidential and protected from hackers. When SSL in enabled on a site, it requires the user to have a key in order to be able to access the site. This helps ensure a more secure transfer of data. 
